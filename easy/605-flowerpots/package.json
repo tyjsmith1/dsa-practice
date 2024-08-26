@@ -1,0 +1,17 @@
+{
+    "name": "dsa-practice",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+      "start": "node ./index.js",
+      "create-symlinks": "node create-symlinks.js"
+    },
+    "type": "module",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+      "chalk": "^5.3.0"
+    }
+  }
