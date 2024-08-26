@@ -28,3 +28,5 @@ function solveProblem() {
 }
 
 solveProblem()
+
+console.log('yo')
